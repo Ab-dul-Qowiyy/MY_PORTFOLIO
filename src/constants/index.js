@@ -77,10 +77,7 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  // {
-  //   name: "TypeScript",
-  //   icon: typescript,
-  // },
+
   {
     name: "React JS",
     icon: reactjs,
@@ -101,10 +98,7 @@ const technologies = [
     name: "MongoDB",
     icon: mongodb,
   },
-  // {
-  //   name: "Three JS",
-  //   icon: threejs,
-  // },
+
   {
     name: "git",
     icon: git,
@@ -113,10 +107,7 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  // {
-  //   name: "docker",
-  //   icon: docker,
-  // },
+
 ];
 
 const experiences = [
@@ -205,7 +196,6 @@ const projects = [
   {
     name: "Note Pad",
     description:
-      // "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       "Web-based platform that allows users to create, save and edit notes",
     tags: [
       {
@@ -216,10 +206,7 @@ const projects = [
         name: "restapi",
         color: "green-text-gradient",
       },
-      // {
-      //   name: "tailwind",
-      //   color: "pink-text-gradient",
-      // },
+
     ],
     image: NotePad,
     source_code_link: "https://github.com/Ab-dul-Qowiyy/NotePad.git",
@@ -253,10 +240,7 @@ const projects = [
         name: "html",
         color: "blue-text-gradient",
       },
-      // {
-      //   name: "css",
-      //   color: "green-text-gradient",
-      // },
+
       {
         name: "css",
         color: "pink-text-gradient",
