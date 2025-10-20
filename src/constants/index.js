@@ -29,6 +29,10 @@ import {
 import NotePad from "../assets/NotePad.png"
 import BudgetApk from "../assets/Budget.png";
 import Animation from "../assets/3danimation.png";
+import html5 from "../assets/tech/html.png";
+import css3 from "../assets/tech/css.png";
+import react from "../assets/tech/reactjs.png";
+import js from "../assets/tech/javascript.png";
 
 export const navLinks = [
   {
@@ -67,20 +71,20 @@ const services = [
 const technologies = [
   {
     name: "HTML 5",
-    icon: html,
+    icon: html5,
   },
   {
     name: "CSS 3",
-    icon: css,
+    icon: css3,
   },
   {
     name: "JavaScript",
-    icon: javascript,
+    icon: js,
   },
 
   {
     name: "React JS",
-    icon: reactjs,
+    icon: react,
   },
   {
     name: "Redux Toolkit",
