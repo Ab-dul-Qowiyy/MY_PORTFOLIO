@@ -55,7 +55,7 @@ const ComputersCanvas = () => {
 
   return (
     <Canvas
-      className="max-[350px]:hidden"
+      // className="max-[350px]:hidden"
       frameloop="demand"
       shadows
       dpr={[1, 2]}
